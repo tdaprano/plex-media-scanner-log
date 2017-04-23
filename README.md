@@ -1,0 +1,1 @@
+# plex-media-scanner-log
